@@ -1,0 +1,128 @@
+table{
+    width:960px;
+    margin:0 auto;
+    border:3px solid black;
+    border-right:4px solid;
+    margin:0;
+    font-family: 'Kosugi Maru', sans-serif;
+}
+
+
+.remark td{
+    border-bottom:3px solid black;
+}
+
+.border{
+    border-right: 3px solid black;
+}
+
+.remark-last td{
+    border-bottom:1px solid black;
+}
+
+.spring-table{
+    margin:0 auto;
+}
+
+.image-onair img{
+    display:block;
+    width:120px;
+    height:150px;
+}
+
+td{
+    width:120px;
+    text-align: center;
+    vertical-align: middle;
+    background: linear-gradient(-120deg,#FFD5EC,#FFDBC9);
+    border-top: 1px solid black;
+    border-left:1px solid black;
+}
+
+th{
+    background: linear-gradient(#660000,#CC0033);
+    color:white;
+    font-size: 16px;
+    padding:0;
+    border-left:1px solid black;
+}
+
+th p{
+    font-size:15px;
+    margin: 2px;
+}
+
+
+.onair{
+    height: 75px;
+    font-weight: bold;
+}
+
+.genle{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.example{
+    text-align: center;
+    font-size: 15px;
+    font-weight:bold;
+}
+
+h3{
+    font-size: 20px;
+    margin:5px 0;
+}
+
+.example p{
+    font-size: 14px;
+    margin:0px 5px;
+}
+
+.image-onair p{
+    font-size:13px;
+    margin:3px;
+}
+
+.company-broadcaster td{
+    font-weight: bold;
+    font-size:16px;
+    height:60px;
+}
+
+.company-broadcaster img{
+    vertical-align:middle;
+    max-width:110px;
+    max-height:50px;
+}
+
+.staff-cast p{
+    text-align:left;
+    font-size: 12px;
+    margin:1px 5px;
+}
+
+.genle p{
+    font-size:12px;
+    margin:3px;
+}
+
+.company-broadcaster p{
+    text-align:center;
+    font-size: 12px;
+    margin:0 5px;
+    padding: 0;
+}
+
+.quote{
+    font-size: 10px;
+    margin:0;
+}
+
+.bold{
+    font-weight:bold;
+}
+
+.small{
+    font-size: 10px;
+}

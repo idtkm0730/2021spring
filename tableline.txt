@@ -1,0 +1,114 @@
+ <div id="line-">
+                    <tr class="image-onair">
+                        <td rowspan="2"><img src="" alt=""></td>
+                        <td class="onair border"></td>
+                        <td rowspan="2"><img src="" alt=""></td>
+                        <td class="onair border"></td>
+                        <td rowspan="2"><img src="" alt=""></td>
+                        <td class="onair border"></td>
+                        <td rowspan="2"><img src="" alt=""></td>
+                        <td class="onair"></td>
+                    </tr>
+                    <tr class="genle">
+                        <td class="border"></td>
+                        <td class="border"></td>
+                        <td class="border"></td>
+                        <td></td>
+                    </tr>
+                    <tr class="anime-title">
+                        <th class="border" colspan="2"></th>
+                        <th class="border" colspan="2"></th>
+                        <th class="border" colspan="2"></th>
+                        <th colspan="2"></th>
+                    </tr>
+                    <tr class="company-broadcaster">
+                        <td><img src="" alt=""></td>
+                        <td class="border"></td>
+                        <td><img src="" alt=""></td>
+                        <td class="border"></td>
+                        <td><img src="" alt=""></td>
+                        <td class="border"></td>
+                        <td><img src="" alt=""></td>
+                        <td></td>
+                    </tr>
+                    <tr class="staff-cast">
+                        <td>
+                            <p class="bold">監督</p>
+                            <p></p>
+                            <p class="bold" >シリーズ構成</p>
+                            <p></p>
+                            <p class="bold">キャラデザ</p>
+                            <p></p>
+                        </td>
+                        <td class="border">
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p class="bold">監督</p>
+                            <p></p>
+                            <p class="bold" >シリーズ構成</p>
+                            <p></p>
+                            <p class="bold">キャラデザ</p>
+                            <p></p>
+                        </td>
+                        <td class="border">
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p class="bold" >監督</p>
+                            <p></p>
+                            <p class="bold">シリーズ構成</p>
+                            <p></p>
+                            <p class="bold" >キャラデザ</p>
+                            <p></p>
+                        </td>
+                        <td class="border">
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p class="bold">監督</p>
+                            <p></p>
+                            <p class="bold">シリーズ構成</p>
+                            <p></p>
+                            <p class="bold">キャラデザ</p>
+                            <p></p>
+                        </td>
+                        <td>
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr class="remark">
+                        <td class="border" colspan="2">
+                            <p class="quote"></p>
+                        </td>
+                        <td class="border" colspan="2">
+                            <p class="quote"></p>
+                        </td>
+                        <td class="border" colspan="2">
+                            <p class="quote"></p>
+                        </td>
+                        <td colspan="2">
+                           <p class="quote"></p>
+                        </td>
+                    </tr>
+                </div>
